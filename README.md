@@ -15,7 +15,7 @@ Greetings! I'm a self-taught software engineer located in Bay Area with a unique
 ### 💡 &nbsp; Recent Projects
 [Online shop](https://github.com/jisung-choi/eshop)\
 [TinyUrl](https://github.com/jisung-choi/short)\
-[Game - Hide & Chick(Streamer play video 2M+ views)](https://www.youtube.com/watch?v=TEMhTHV3pUg&t=89)\
+[Game - Hide & Chick(Streamer play video 2M+ views)](https://www.youtube.com/watch?v=TEMhTHV3pUg&t=89)
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,11 +36,9 @@ Greetings! I'm a self-taught software engineer located in Bay Area with a unique
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/jisung-choi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jisung-choi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.linkedin.com/in/jijameschoi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
