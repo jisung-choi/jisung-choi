@@ -33,6 +33,15 @@ Greetings! I'm a self-taught software engineer located in Bay Area with a unique
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jisung-choi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jisung-choi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jisung-choi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.linkedin.com/in/jijameschoi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
