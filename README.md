@@ -15,7 +15,7 @@ Greetings! I'm a self-taught software engineer located in Bay Area with a unique
 ### 💡 &nbsp; Recent Projects
 [Online shop](https://github.com/jisung-choi/eshop)\
 [TinyUrl](https://github.com/jisung-choi/short)\
-[Game - Hide & Chick(Streamer play video 2M+ views)](https://www.youtube.com/watch?v=TEMhTHV3pUg&t=89)
+[Game - Hide & Chick (Streamer play video 2M+ views)](https://www.youtube.com/watch?v=TEMhTHV3pUg&t=89)
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
