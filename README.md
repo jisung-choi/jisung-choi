@@ -10,10 +10,14 @@
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
-Greetings! I'm a self-taught software engineer with a unique blend of creativity and technical prowess. My journey began with an interest in startups and evolved into a relentless pursuit of coding mastery. To learn how to architect intricate systems, I've honed my skills while creating captivating games like "Hide and Chick," achieving viral success. My learning journey expanded into web development with projects like TinyUrl and e-commerce, where I strategically optimized resources and database mechanisms. I'm still learning to fulfill my pursuit of crafting software that delights users. Let's connect and collaborate on projects!
+Greetings! I'm a self-taught software engineer located in Bay Area with a unique blend of creativity and technical prowess. My journey began with an interest in startups and evolved into a relentless pursuit of coding mastery. To learn how to architect intricate systems, I've honed my skills while creating captivating games like "Hide and Chick," achieving viral success. My learning journey expanded into web development with projects like TinyUrl and e-commerce, where I strategically optimized resources and database mechanisms. I'm still learning to fulfill my pursuit of crafting software that delights users. Let's connect and collaborate on projects!
+
+### 💡 &nbsp; Recent Projects
+[Online shop](https://github.com/jisung-choi/eshop)
+[TinyUrl](https://github.com/jisung-choi/short) 
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
