@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm James</h1>
 <h4 align="center">passionate autodidactic engineer aspiring to become staff engineer one day,
- , see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -34,5 +34,5 @@ Greetings! I'm a self-taught software engineer located in Bay Area with a unique
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.linkedin.com/in/jijameschoi/"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+<a href="https://www.linkedin.com/in/jijameschoi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
