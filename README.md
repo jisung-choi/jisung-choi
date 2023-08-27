@@ -13,7 +13,7 @@
 Greetings! I'm a self-taught software engineer located in Bay Area with a unique blend of creativity and technical prowess. My journey began with an interest in startups and evolved into a relentless pursuit of coding mastery. To learn how to architect intricate systems, I've honed my skills while creating captivating games like "Hide and Chick," achieving viral success. My learning journey expanded into web development with projects like TinyUrl and e-commerce, where I strategically optimized resources and database mechanisms. I'm still learning to fulfill my pursuit of crafting software that delights users. Let's connect and collaborate on projects!
 
 ### 💡 &nbsp; Recent Projects
-[Online shop](https://github.com/jisung-choi/eshop)
+[Online shop](https://github.com/jisung-choi/eshop)\
 [TinyUrl](https://github.com/jisung-choi/short) 
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,3 +32,7 @@ Greetings! I'm a self-taught software engineer located in Bay Area with a unique
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="https://www.linkedin.com/in/jijameschoi/"><img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+
