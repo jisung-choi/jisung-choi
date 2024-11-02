@@ -8,14 +8,6 @@
        alt="snake" /></a>
 </div>
 
-### 👨🏻‍💻 &nbsp;About Me
-Greetings! I'm a self-taught software engineer located in Bay Area with a unique blend of creativity and technical prowess. My journey began with an interest in startups and evolved into a relentless pursuit of coding mastery. To learn how to architect intricate systems, I've honed my skills while creating captivating games like "Hide and Chick," achieving viral success. My learning journey expanded into web development with projects like TinyUrl and e-commerce, where I strategically optimized resources and database mechanisms. I'm still learning to fulfill my pursuit of crafting software that delights users. Let's connect and collaborate on projects!
-
-### 💡 &nbsp; Recent Projects
-<a href='https://github.com/jisung-choi/eshop' target="_blank"><img alt='Online Shop' src='https://img.shields.io/badge/personal_project-Online Shop-100000?style=for-the-badge&logo=Online Shop&logoColor=905D44&labelColor=394CC6&color=6070D2'/></a>\
-<a href='https://github.com/jisung-choi/short' target="_blank"><img alt='TinyUrl' src='https://img.shields.io/badge/personal_project-tinyurl-100000?style=for-the-badge&logo=TinyUrl&logoColor=905D44&labelColor=E0681F&color=E6864C'/></a>\
-<a href='https://www.youtube.com/watch?v=TEMhTHV3pUg&t=89' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/Hide&Chick-Streamer_Play Video(2M+Views)-100000?style=for-the-badge&logo=Youtube&logoColor=FF0000&labelColor=282828&color=FF0000'/></a>
-
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
