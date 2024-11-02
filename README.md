@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm James</h1>
-<h4 align="center">passionate autodidactic engineer aspiring to become staff engineer one day,
-see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">passionate autodidactic engineer aspiring to become staff engineer one day
 </div>
 
 <div align="center">
