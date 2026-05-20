@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi, I'm James</h1>
-<h4 align="center">passionate autodidactic engineer aspiring to become staff engineer one day
 </div>
 
 <div align="center">
